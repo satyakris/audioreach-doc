@@ -12,6 +12,14 @@ Introduction
 
 AudioReach Creator (ARC), also known as Qualcomm Audio Calibration Tool (QACT) for older version, is an open source and cross-platform software providing a user interface to audio design, software, and tuning engineers for composing, configuring, tuning, and storing audio graphs into audio calibration database (ACDB) for intended use cases.
 
+Roadmap
+-------------------
+.. figure:: images/arc_roadmap.png
+   :figclass: fig-center
+   :scale: 70%
+
+   AudioReach Creator (ARC) Roadmap
+
 Architecture
 --------------------------------------
 AudioReach Creator (ARC) architecture will contain two separate parts: UI (Frontend) and ARC Engine (Backend).
